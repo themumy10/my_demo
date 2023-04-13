@@ -77570,7 +77570,7 @@ case 4:return 1200
 case 5:return 2000}}}
 A.rN.prototype={
 H(a){var s=null
-return A.acW(A.avv(A.kS(this.c.b,s,s,s,s,s,s,s,s,s,s,s)),new A.yq("assets/images/models/pizza.glb","A 3D model of an astronaut",!0,!0,s))}}
+return A.acW(A.avv(A.kS(this.c.b,s,s,s,s,s,s,s,s,s,s,s)),new A.yq("assets/assets/images/models/pizza.glb","A 3D model of an astronaut",!0,!0,s))}}
 A.ba.prototype={}
 A.t3.prototype={
 gxx(){switch(A.jr(this.a).a){case 0:case 1:return 1
